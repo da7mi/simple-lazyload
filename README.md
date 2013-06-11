@@ -8,7 +8,7 @@
 [ jQuery ](http://jquery.com/) 動作確認Ver1.9済
 
     <script type="text/javascript" src="path/to/jquery.js"></script>
-    <script type="text/javascript" src="path/to/jquery.simple-lazyload.js"></script>
+    <script type="text/javascript" src="path/to/jquery.simple-lzyload.js"></script>
 
 
 ## Example
