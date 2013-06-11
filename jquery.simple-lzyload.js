@@ -4,7 +4,7 @@
  *
  * Licensed under the GPL license
  * Copyright 2013 da7mi
- * https://github.com/da7mi/simple-lzyload
+ * https://github.com/da7mi/simple-lazyload
  *
  * Usage:
  * 		$('img').sLsyload({

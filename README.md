@@ -2,7 +2,6 @@
 
 機能を絞ったシンプルな画像遅延ロードプラグインです。
 
----
 
 ## Download & Install
 
@@ -33,3 +32,7 @@ Javascript
 任意のイベントでロードを行いたい場合はwindowのscrollイベントを発火してください。
 
     $(window).trigger('scroll');
+    
+## History
+
+* Ver1.0 / 2013.06.10 / 公開
