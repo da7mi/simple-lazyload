@@ -35,4 +35,5 @@ Javascript
     
 ## History
 
+* Ver1.0 / 2013.09.20 / MITライセンス化
 * Ver1.0 / 2013.06.10 / 公開
